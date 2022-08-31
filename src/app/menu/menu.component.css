@@ -1,0 +1,19 @@
+.bg-lilas{
+    background-color: rgb(145, 85, 185);
+}
+
+.fs-14{
+    font-size: 14pt !important;
+}
+
+a{
+    cursor: pointer;
+}
+
+i:hover{
+    color: black;
+}
+
+.out:hover{
+    color: black !important;
+}

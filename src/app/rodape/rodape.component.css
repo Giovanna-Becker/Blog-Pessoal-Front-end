@@ -1,0 +1,25 @@
+.bg-lilas{
+    background-color: rgb(145, 85, 185);
+}
+
+.social-network{
+    list-style: none;
+    padding: 0;
+}
+
+.social-network li{
+    display: inline;
+    margin: 0;
+    padding: 10px;
+}
+
+.fa{
+    font-size: 30pt;
+    color: white;
+    padding: 10px;
+}
+
+.fa:hover{
+    color: black;
+}
+
