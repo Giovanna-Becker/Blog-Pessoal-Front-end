@@ -1,0 +1,15 @@
+#img-bg{
+    background-image: url('../../assets/img/Mulher-estudando.jpg');
+    min-height: 695px;
+    background-position: 89%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg{
+    background-color: rgb(207, 169, 9);
+}
+
+.btn-preto{
+    background-color: rgb(29, 29, 29);
+}
