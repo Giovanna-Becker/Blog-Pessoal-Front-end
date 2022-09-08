@@ -1,0 +1,47 @@
+.bg-amarelo{
+    background-color: rgb(207, 169, 9);
+}
+
+.bg-verde{
+    background-color: rgb(6, 104, 92);
+}
+
+.t-verde{
+    color: rgb(6, 104, 92);
+}
+
+.t-preto{
+    color: black;
+}
+
+.nav-tabs .nav-link.active{
+    color: rgb(6, 104, 92);
+    border-color: rgb(6, 104, 92);
+}
+
+.nav-tabs .nav-link{
+    color: white;
+}
+
+.btn-verde{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgb(6, 104, 92);
+}
+
+.btn-verde:hover{
+    background-color: rgb(6, 104, 92);
+
+}
+
+.fs-54{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+.cad{
+    color: rgb(6, 104, 92);
+}
