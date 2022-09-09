@@ -1,17 +1,5 @@
-.bg-amarelo{
-    background-color: rgb(207, 169, 9);
-}
-
 .bg-verde{
     background-color: rgb(6, 104, 92);
-}
-
-.t-verde{
-    color: rgb(6, 104, 92);
-}
-
-.t-preto{
-    color: black;
 }
 
 .nav-tabs .nav-link.active{
@@ -32,14 +20,6 @@
 .btn-verde:hover{
     background-color: rgb(6, 104, 92);
 
-}
-
-.fs-54{
-    font-size: 54pt;
-}
-
-.fs-18{
-    font-size: 18pt;
 }
 
 .cad{

@@ -6,6 +6,10 @@
     font-size: 14pt !important;
 }
 
+.t-preto{
+    color: black;
+}
+
 a{
     cursor: pointer;
 }

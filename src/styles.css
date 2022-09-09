@@ -1,3 +1,23 @@
 html{
     scroll-behavior: smooth;
 }
+
+.fs-54{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+.bg-amarelo{
+    background-color: rgb(207, 169, 9);
+}
+
+.t-preto{
+    color: black;
+}
+
+.t-verde{
+    color: rgb(6, 104, 92) !important;
+}

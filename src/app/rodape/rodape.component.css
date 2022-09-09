@@ -7,6 +7,10 @@
     padding: 0;
 }
 
+.t-preto{
+    color: black;
+}
+
 .social-network li{
     display: inline;
     margin: 0;
