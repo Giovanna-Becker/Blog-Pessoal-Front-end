@@ -12,6 +12,8 @@ import { CadastrarComponent } from './cadastrar/cadastrar.component';
 import { AppRoutingModule } from './app-routing.module';
 import { InicioComponent } from './inicio/inicio.component';
 import { TemaComponent } from './tema/tema.component';
+import { TemaEdicaoComponent } from './edicao/tema-edicao/tema-edicao.component';
+import { TemaDelecaoComponent } from './delecao/tema-delecao/tema-delecao.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,9 @@ import { TemaComponent } from './tema/tema.component';
     EntrarComponent,
     CadastrarComponent,
     InicioComponent,
-    TemaComponent
+    TemaComponent,
+    TemaEdicaoComponent,
+    TemaDelecaoComponent
   ],
   imports: [
     BrowserModule,

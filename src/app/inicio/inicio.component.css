@@ -1,10 +1,7 @@
-.bg-verde{
-    background-color: rgb(6, 104, 92);
-}
-
 .nav-tabs .nav-link.active{
     color: rgb(6, 104, 92);
     border-color: rgb(6, 104, 92);
+    background-color: white !important;
 }
 
 .nav-tabs .nav-link{

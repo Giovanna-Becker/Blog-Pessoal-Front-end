@@ -11,7 +11,11 @@ html{
 }
 
 .bg-amarelo{
-    background-color: rgb(207, 169, 9);
+    background-color: rgb(207, 169, 9) !important;
+}
+
+.bg-verde{
+    background-color: rgb(6, 104, 92) !important;
 }
 
 .t-preto{
@@ -20,4 +24,8 @@ html{
 
 .t-verde{
     color: rgb(6, 104, 92) !important;
+}
+
+.t-amarelo{
+    color: rgb(207, 169, 9) !important;
 }
